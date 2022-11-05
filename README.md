@@ -8,4 +8,4 @@ yourls翻译版本: YOURLS 1.9
 
 1. 在`config.php`添加或编辑以下行：`define( 'YOURLS_LANG', 'fr_FR' );`
 
-1. 在目录`user/languages`中，删除这两个文件`zh_CN.po`和`zh_CN.mo`
+1. 在目录`user/languages`中，添加这两个文件`zh_CN.po`和`zh_CN.mo`
