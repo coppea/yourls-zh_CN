@@ -1,5 +1,7 @@
-最新版[YOURLS.pot](https://github.com/YOURLS/YOURLS.pot)
+原始版[YOURLS.pot](https://github.com/YOURLS/YOURLS.pot)
+
 yourls翻译版本: YOURLS 1.9
+
 翻译时间: 2022.11.5 15:36
 
 
